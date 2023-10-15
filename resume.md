@@ -4,6 +4,7 @@ Name: Alison Kellner
 
 Current first year undergraduate student at Northeasten University
 Major: Cybersecurity and Criminal Justice
+Expected graduation date: May 2027
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
